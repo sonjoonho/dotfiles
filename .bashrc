@@ -120,7 +120,7 @@ fi
 export TERM=xterm-256color
 
 # for dotfiles
-alias config='/usr/bin/git --git-dir=/home/joonho/.cfg/ --work-tree=/home/joonho'
+alias config='/usr/bin/git --git-dir=/home/joon/.cfg/ --work-tree=/home/joonho'
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
